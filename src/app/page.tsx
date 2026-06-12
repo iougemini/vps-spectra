@@ -457,20 +457,20 @@ export default function HomePage() {
             <div className="flex items-center space-x-2">
               <p>© 2025 VPS-Spectra by</p>
               <a 
-                href="https://github.com/Haoyu99" 
+                href="https://github.com/iougemini" 
                 target="_blank"
                 rel="noopener noreferrer"
                 className="hover:opacity-80 transition-opacity"
               >
                 <img 
-                  src="https://github.com/Haoyu99.png" 
-                  alt="Haoyu99"
+                  src="https://github.com/iougemini.png" 
+                  alt="iougemini"
                   className="w-6 h-6 rounded-full"
                 />
               </a>
             </div>
             <a 
-              href="https://github.com/Haoyu99/vps-spectra" 
+              href="https://github.com/iougemini/vps-spectra" 
               target="_blank"
               rel="noopener noreferrer"
               className="hover:text-foreground transition-colors"
