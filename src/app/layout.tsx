@@ -26,7 +26,7 @@ export const metadata: Metadata = {
   openGraph: {
     type: 'website',
     locale: 'zh_CN',
-    url: 'https://vps-spectra.vercel.app',
+    url: 'https://s.vvps.eu.org',
     title: 'VPS-Spectra | 融合怪结果美化工具',
     description: '将融合怪基准测试数据转换为美观的Markdown格式，支持Obsidian callout语法',
     siteName: 'VPS-Spectra',
